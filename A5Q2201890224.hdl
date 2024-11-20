@@ -1,4 +1,4 @@
-CHIP A5Q2201890722 {
+CHIP A5Q2201890224 {
     IN G, S, M;    // Input signals
     OUT D;         // Output signal
 
